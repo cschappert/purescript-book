@@ -17,10 +17,10 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-lists": "^4.0.0",
-    "purescript-console": "^3.0.0"
+    "purescript-lists": "^5.4.1",
+    "purescript-console": "^4.3.0"
   },
   "devDependencies": {
-    "purescript-psci-support": "^3.0.0"
+    "purescript-psci-support": "^4.0.0"
   }
 }

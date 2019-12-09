@@ -2,8 +2,8 @@ module Test.Main where
 
 import Prelude
 
-import Control.Monad.Eff (Eff)
-import Control.Monad.Eff.Console (CONSOLE, logShow)
+import Effect (Eff)
+import Effect.Console (CONSOLE, logShow)
 import Data.AddressBook (AddressBook, Entry, emptyBook, insertEntry, findEntry, showEntry)
 import Data.Maybe (Maybe)
 
